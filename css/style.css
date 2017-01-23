@@ -1,0 +1,53 @@
+
+span{color: white;}
+body {
+  font-family: Arial, Helvetica, Verdana;
+}
+
+span {
+  font-family: cursive;
+}
+
+ul{
+list-style: none;
+}
+h1{
+  color: #000;
+}
+
+a:hover{
+color: #ccc;
+}
+
+li.activo a{
+background: #ccc;
+  }
+
+  .h1{
+    text-align: center;
+    color: black;
+  }
+  h1,h2{
+  text-align: center;
+  padding-top: 20px ;
+}
+.img{
+ margin-left: auto;
+ margin-right: auto;
+ bottom: auto;
+}
+.img-responsive {
+    margin: 0 auto;
+}
+
+.footer{
+  background: black;
+  padding: 10px;
+  height: 90px;
+  bottom: 0px;
+}
+
+.menu-navegacion{
+  text-align: center;
+  list-style-type: disc;
+}
